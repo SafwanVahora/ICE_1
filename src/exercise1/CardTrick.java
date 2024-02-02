@@ -29,7 +29,7 @@ public class CardTrick {
         Random random = new Random();
         return random.nextInt(max - min + 1) + min;
     }
-
+    /*“I’m done!”*/
     private static void printInfo() {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
