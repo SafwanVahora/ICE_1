@@ -38,10 +38,10 @@ public class CardTrick {
         System.out.println();
 
         System.out.println("My career ambitions:");
-        System.out.println("-- Your career ambitions here");
+        System.out.println("To become a Businessman");
 
         System.out.println("My hobbies:");
-        System.out.println("-- Your hobbies here");
+        System.out.println("My Hobby is to play Cricket");
 
         System.out.println();
     }
